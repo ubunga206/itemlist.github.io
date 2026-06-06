@@ -93,7 +93,7 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Explains what the karma system is, and how much the viewer's current karma is",
     "name": "Karma explanation",
     "usage": "!whatiskarma",
     "userLevel": "Anyone",
@@ -104,7 +104,7 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Links to the github",
     "name": "Purchase list",
     "usage": "!purchaselist",
     "userLevel": "Anyone",
@@ -115,7 +115,7 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Join the queue of viewers to claim a colonist.",
     "name": "Join queue",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
@@ -138,7 +138,7 @@
       "mod": "Twitch Toolkit",
       "isBuy": true
     },
-    "description": null,
+    "description": "Purchase an item, done by !buy <item> <amount>   Can also be done via $<item> <amount>",
     "name": "Buy",
     "usage": "!buy",
     "userLevel": "Anyone",
@@ -171,7 +171,7 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Don't use this, these instructions are wrong.",
     "name": "Instructions",
     "usage": "!instructions",
     "userLevel": "Anyone",
@@ -182,7 +182,7 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Don't use this, this list is incorrect.",
     "name": "All commands",
     "usage": "!allcommands",
     "userLevel": "Anyone",
@@ -204,7 +204,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Revive all dead viewer's colonists",
     "name": "Revive all",
     "usage": "!reviveall",
     "userLevel": "Anyone",
@@ -215,7 +215,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Revive your colonist.",
     "name": "Revive me",
     "usage": "!reviveme",
     "userLevel": "Anyone",
@@ -226,7 +226,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Heal your colonist.",
     "name": "Heal me",
     "usage": "!healme",
     "userLevel": "Anyone",
@@ -237,7 +237,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Heal all injured colonists.",
     "name": "Healall",
     "usage": "!healall",
     "userLevel": "Anyone",
@@ -270,7 +270,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Add a trait to your claimed colonist. Use the traits list.",
     "name": "Add trait",
     "usage": "!trait",
     "userLevel": "Anyone",
@@ -281,7 +281,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Remove a trait from your claimed colonist, Use the traits list.",
     "name": "Remove trait",
     "usage": "!removetrait",
     "userLevel": "Anyone",
@@ -292,7 +292,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Revives a random colonist.",
     "name": "Revive any pawn",
     "usage": "!reviveanypawn",
     "userLevel": "Anyone",
@@ -303,7 +303,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Heals a random colonist.",
     "name": "Heal any pawn",
     "usage": "!healanypawn",
     "userLevel": "Anyone",
@@ -358,7 +358,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Fully heal your colonist. If you dont have enough coins to fully heal then will partially heal.",
     "name": "Full heal",
     "usage": "!fullheal",
     "userLevel": "Anyone",
@@ -369,7 +369,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Unsure what this does, find out!",
     "name": "Rescue me",
     "usage": "!rescueme",
     "userLevel": "Anyone",
@@ -380,7 +380,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Check how many other people your colonist has killed.",
     "name": "Viewer kill count",
     "usage": "!mypawnkills",
     "userLevel": "Anyone",
@@ -413,7 +413,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Check the current needs of your colonist.",
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
     "userLevel": "Anyone",
@@ -435,7 +435,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "No clue what this command does.",
     "name": "Viewer body",
     "usage": "!mypawnbody",
     "userLevel": "Anyone",
@@ -457,7 +457,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "No clue what this command does.",
     "name": "Viewer story",
     "usage": "!mypawnstory",
     "userLevel": "Anyone",
@@ -468,7 +468,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Checks your claimed colonist's skills.",
     "name": "Viewer skills",
     "usage": "!mypawnskills",
     "userLevel": "Anyone",
@@ -479,7 +479,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "If your experiencing bugs getting your colonist's data, use this.",
     "name": "Fix viewer pawn",
     "usage": "!fixmypawn",
     "userLevel": "Anyone",
@@ -490,7 +490,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Staff command, fix all",
     "name": "Fix all pawns",
     "usage": "!fixallpawns",
     "userLevel": "Moderator",
@@ -523,7 +523,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Check our current relations with other factions.",
     "name": "Factions",
     "usage": "!factions",
     "userLevel": "Anyone",
@@ -600,7 +600,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Check the current wealth of our colony.",
     "name": "Colony wealth",
     "usage": "!wealth",
     "userLevel": "Anyone",
@@ -611,7 +611,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Check how many colonists our faction has.",
     "name": "Colonist count",
     "usage": "!colonists",
     "userLevel": "Anyone",
@@ -633,7 +633,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "if bugged, use",
     "name": "Unstick me",
     "usage": "!imstuck",
     "userLevel": "Anyone",
