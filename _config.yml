@@ -5,7 +5,7 @@ description: A custom version of Toolkit's item list to support all the latest f
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 'ubunga42'
+twitter_username: ''
 github_username: 'ubunga206'
 
 # Item list settings
