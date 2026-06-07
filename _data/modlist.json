@@ -30,12 +30,6 @@
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Better Exploration Loot",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -52,12 +46,6 @@
     "name": "Allies are Helpful",
     "steamId": "3534920369",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Luved",
-    "name": "Animal Traits System",
-    "steamId": "3652630316",
-    "version": "0.0.0.0"
   },
   {
     "author": "marcin212",
@@ -114,12 +102,6 @@
     "version": "1.6.0.0"
   },
   {
-    "author": "SamBucher",
-    "name": "Selective Bioregeneration",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
@@ -160,6 +142,12 @@
     "name": "Dependency Overdose Fix",
     "steamId": "3421951605",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "Talesoftherim",
@@ -213,12 +201,6 @@
     "author": "ferny",
     "name": "Better Architect Menu",
     "steamId": "3563882422",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Arkymn",
-    "name": "Better Growth Moments",
-    "steamId": "3642805464",
     "version": "1.0.0.0"
   },
   {
@@ -336,12 +318,6 @@
     "version": "1.6"
   },
   {
-    "author": "TOLGRIM",
-    "name": "Tolgrim's Meowl",
-    "steamId": "3663445759",
-    "version": "1.0.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -351,12 +327,6 @@
     "author": "GHXX",
     "name": "Tech Advancing",
     "steamId": "735268789",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "balistafreak",
-    "name": "Stop, Drop, And Roll! [BAL]",
-    "steamId": "2362707956",
     "version": "1.0.0.0"
   },
   {
@@ -456,9 +426,21 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Helixien and Taranchuk",
+    "name": "ReGrowth: Expanded World Generation (Continued)",
+    "steamId": "2791768296",
+    "version": "1.6.2"
+  },
+  {
     "author": "Andromeda",
     "name": "Nice Health Tab",
     "steamId": "3328729902",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth 2",
+    "steamId": "2260097569",
     "version": "1.0.0.0"
   },
   {
@@ -492,6 +474,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Unon",
+    "name": "No Burn Metal",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Seromas",
     "name": "Layered Wall Destruction - Additional Patches",
     "steamId": null,
@@ -502,6 +490,12 @@
     "name": "I will be back",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Buggy",
+    "name": "Letter Permanent Injury",
+    "steamId": "2592535960",
+    "version": "1.0.0.1"
   },
   {
     "author": "cocoapebbles",
