@@ -1,5 +1,11 @@
 [
   {
+    "author": "Zetrith",
+    "name": "Prepatcher",
+    "steamId": "2934420800",
+    "version": "1.0.0+73521869e68cb4941486a199040cff83c2f6f09f"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
@@ -9,7 +15,7 @@
     "author": "ilyvion",
     "name": "Loading Progress",
     "steamId": "3535481557",
-    "version": "0.10.0+7093e43cdbf7e255ed72b9accd0554315e938d6b"
+    "version": "0.11.0+f3dcc598b1621f0d664951d7522aee9f111b9c14"
   },
   {
     "author": "Soul, Phaneron and Bradson",
@@ -22,6 +28,18 @@
     "name": "[sbz] Neat Storage",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.6+0045fe176c136602ec18a20cdff8b76726af8132"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "seobongzu",
@@ -46,12 +64,6 @@
     "name": "Allies are Helpful",
     "steamId": "3534920369",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "marcin212",
-    "name": "Architect Icons",
-    "steamId": "1195427067",
-    "version": "1.2.0.0"
   },
   {
     "author": "OskarPotocki, Atlas, Kikohi, Sarg and Sokyran",
@@ -84,12 +96,6 @@
     "version": null
   },
   {
-    "author": "Krelinos",
-    "name": "Social Experience from Trade",
-    "steamId": "3400608063",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
@@ -114,12 +120,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Uuugggg",
-    "name": "Replace Stuff - Continued",
-    "steamId": "3526354009",
-    "version": "1.0.0+fc670908877dabe764b3fa182cffed841e482fa5"
-  },
-  {
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
@@ -142,12 +142,6 @@
     "name": "Dependency Overdose Fix",
     "steamId": "3421951605",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "12.0.0"
   },
   {
     "author": "Talesoftherim",
@@ -198,30 +192,6 @@
     "version": "1.1.1.0"
   },
   {
-    "author": "ferny",
-    "name": "Better Architect Menu",
-    "steamId": "3563882422",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mumei",
-    "name": "Better Mod Menu",
-    "steamId": "3636406008",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Odie",
-    "name": "Better Records Tab (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "3.4.4.0"
-  },
-  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -237,7 +207,7 @@
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "dhultgren",
@@ -276,28 +246,10 @@
     "version": null
   },
   {
-    "author": "the_heye",
-    "name": "Twitch Chat",
-    "steamId": "2075845400",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
     "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg",
@@ -318,12 +270,6 @@
     "version": "1.6"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
-  },
-  {
     "author": "GHXX",
     "name": "Tech Advancing",
     "steamId": "735268789",
@@ -339,12 +285,6 @@
     "author": "rabiosus",
     "name": "Draw From Center",
     "steamId": "3553713342",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Matvey24",
-    "name": "FPS Stabilizer",
-    "steamId": "3318922522",
     "version": "1.0.0.0"
   },
   {
@@ -408,12 +348,6 @@
     "version": "1.0.0+a3d225b7a5f79e04ae28407275470deca71d2179"
   },
   {
-    "author": "ferny",
-    "name": "No Modlist on Loading",
-    "steamId": "3618480405",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Andromeda",
     "name": "Nice Plants Menu",
     "steamId": "3685058533",
@@ -438,6 +372,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Helixien",
     "name": "ReGrowth 2",
     "steamId": "2260097569",
@@ -447,7 +393,7 @@
     "author": "HICON",
     "name": "Nice Bill Tab - Expansion",
     "steamId": "3721023311",
-    "version": "1.0.0"
+    "version": "1.0.0+6bb50e97addb85af71d800cb3e86c68c32fdd136"
   },
   {
     "author": "Imranfish",
@@ -486,12 +432,6 @@
     "version": null
   },
   {
-    "author": "HaiLuan",
-    "name": "I will be back",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Buggy",
     "name": "Letter Permanent Injury",
     "steamId": "2592535960",
@@ -508,5 +448,371 @@
     "name": "Increased Stack",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "the_heye",
+    "name": "Twitch Chat",
+    "steamId": "2075845400",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+  },
+  {
+    "author": "Krkr",
+    "name": "[1.6] CAI 5000 - Advanced AI + Fog Of War (continued)",
+    "steamId": "3673768803",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Exploration Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Pawn Lending Quest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan",
+    "name": "[XND] Profitable Weapons (Continued)",
+    "steamId": "2269697598",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "4.1.8.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Luved",
+    "name": "Animal Traits System",
+    "steamId": "3652630316",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Helixien and Oracle of Thessia",
+    "name": "ReBuild: Doors and Corners",
+    "steamId": "3262718980",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded - Tier 3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Trading Expanded",
+    "steamId": "2785616901",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Ushanka",
+    "name": "Ushankas Glittertech Expansion",
+    "steamId": "3522676478",
+    "version": "0.1.0.0+e4e1886243c9dbd48b74b70b5887e033ab9d30a8"
+  },
+  {
+    "author": "AOBA",
+    "name": "Fortified Features Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": "2561619583",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Neolithic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Citadel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ferny",
+    "name": "Better Architect Menu",
+    "steamId": "3563882422",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Arkymn",
+    "name": "Better Growth Moments",
+    "steamId": "3642805464",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mumei",
+    "name": "Better Mod Menu",
+    "steamId": "3636406008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Odie",
+    "name": "Better Records Tab (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrKociak",
+    "name": "Bionic modularity",
+    "steamId": "3589154549",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fuu Chan",
+    "name": "Blood Animations",
+    "steamId": "3228047321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9416.33549"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Effective Lumbering",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Footsteps",
+    "steamId": "3728675951",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Matvey24",
+    "name": "FPS Stabilizer",
+    "steamId": "3318922522",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo, Owlchemist, dav9670 and Meme Goddess",
+    "name": "Giddy-Up 2 - Continued",
+    "steamId": "3674332861",
+    "version": "1.6+187463324d2cb93c723081e7e544997c1f0750d2"
+  },
+  {
+    "author": "Albion",
+    "name": "Go Explore!",
+    "steamId": "1814100216",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Timuttie and mitasamodel",
+    "name": "Just Leave Already",
+    "steamId": "3530313037",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Epicguru",
+    "name": "Melee Animation",
+    "steamId": "2944488802",
+    "version": "1.0.0+c9d152586099442b4bc61f5a4c2105f5658ad3bc"
+  },
+  {
+    "author": "Bamba + Haderoth",
+    "name": "Melee Weapons For All Tech Levels",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": "717575199",
+    "version": "1.6.4"
+  },
+  {
+    "author": "ferny",
+    "name": "More Prop Categories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "0.1.0.0+79c030b5e7b541fd9c4b84c8b3ad3f8bef12f98f"
+  },
+  {
+    "author": "ferny",
+    "name": "No Modlist on Loading",
+    "steamId": "3618480405",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SLIM",
+    "name": "Quartermaster",
+    "steamId": "3737474260",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff - Continued",
+    "steamId": "3526354009",
+    "version": "1.0.0+0ea5dc93c028f458ab82ec552ad8a4cea71428da"
+  },
+  {
+    "author": "ferny",
+    "name": "ReplaceLib",
+    "steamId": "3417393194",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "reo",
+    "name": "RimRelations",
+    "steamId": "3737617982",
+    "version": "1.0.0"
+  },
+  {
+    "author": "SamBucher",
+    "name": "Selective Bioregeneration",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.1"
+  },
+  {
+    "author": "Krelinos",
+    "name": "Social Experience from Trade",
+    "steamId": "3400608063",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.9303.23067"
+  },
+  {
+    "author": "Aliza",
+    "name": "Vanilla Melee Modes",
+    "steamId": "3675337268",
+    "version": "1.0.0+3505efe669817ebb6d6cb11bcd685804f63c0e58"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Vehicles Expanded - Upgrades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AbobaShark",
+    "name": "Zoology: Realistic Animal Overhaul",
+    "steamId": "3679396881",
+    "version": "1.0.0+a5b537dade64f89237ba4c6f9de374ec29c983e3"
+  },
+  {
+    "author": "ferny",
+    "name": "Perspective Shift",
+    "steamId": "3686618980",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ray1203",
+    "name": "SimpleCameraSetting",
+    "steamId": "3232415388",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ferny",
+    "name": "Resource Delivery Helper",
+    "steamId": "3696859196",
+    "version": "1.0.0.0"
   }
 ]
