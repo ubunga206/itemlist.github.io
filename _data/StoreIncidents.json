@@ -357,7 +357,7 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -377,12 +377,12 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
